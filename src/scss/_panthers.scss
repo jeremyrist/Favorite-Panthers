@@ -11,8 +11,19 @@ h1 {
   text-align: center;
   background: lightblue;
   text-transform: uppercase;
+  color: white;
+  outline: 2px outset gray;
 }
-
+a:hover {
+background-color: #ededed;
+}
+.navbar {
+  font-family: sans-serif;
+  a {
+    text-decoration: none;
+    padding: 10px 15px;
+  }
+}
 
 		ul.tabs{
 			margin: 0px;
@@ -44,4 +55,5 @@ h1 {
 		}
 img {
   width: 100%;
+  border-radius: 10%;
 }
