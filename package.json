@@ -1,0 +1,27 @@
+{
+  "name": "favorite-panthers",
+  "version": "0.0.0",
+  "description": "tribute to panthers site",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "mocha chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyrist/Favorite-Panthers.git"
+  },
+  "author": "Jeremy Rist \"jtrain18@brandeis.edu\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyrist/Favorite-Panthers/issues"
+  },
+  "homepage": "https://github.com/jeremyrist/Favorite-Panthers#readme",
+  "dependencies": {
+    "bower": "^1.6.5",
+    "browser-sync": "^2.9.11",
+    "node-sass": "^3.4.1"
+  }
+}
