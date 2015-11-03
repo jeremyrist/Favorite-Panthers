@@ -1,0 +1,28 @@
+{
+  "name": "favorite-panthers",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jeremyrist/Favorite-Panthers",
+  "authors": [
+    "JEREMY RIST <JTRAIN18@BRANDEIS.EDU>"
+  ],
+  "description": "tribute site to panthers",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#~3.0.3",
+    "modernizr": "~3.2.0",
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "font-awesome": "~4.4.0"
+  }
+}
